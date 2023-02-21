@@ -8,6 +8,10 @@ img{
   margin-top:3em;
 }
 
+.zoom:hover{
+  transform: scale(1.1);
+}
+
 .align-center{
   align-items: center;
 }
@@ -44,6 +48,8 @@ img{
 
 .footer{
   background-color: darkblue;
+  color: white;
+  font-size: large;
   margin-bottom: 0;
   margin-top: 1em;
   min-height: 8vh;
